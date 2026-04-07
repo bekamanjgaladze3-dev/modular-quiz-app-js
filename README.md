@@ -12,7 +12,7 @@ Restart quiz functionality and full app lifecycle management
 Vanilla JavaScript, no frameworks required
 How to Use
 Clone the repository
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/bekamanjgaladze3-dev/modular-quiz-app-js.git
 Open index.html in your browser
 Choose a difficulty level and start the quiz
 Answer the questions: correct and wrong answers are highlighted
