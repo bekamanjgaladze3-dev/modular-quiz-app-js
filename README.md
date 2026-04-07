@@ -2,6 +2,8 @@ Interactive Quiz App
 
 Interactive quiz application built with vanilla JavaScript featuring multiple difficulty levels, dynamic question fetching from an API, real-time scoring, and a leaderboard. Designed as a portfolio project to showcase front-end skills.
 
+Live Demo:  https://bekamanjgaladze3-dev.github.io/modular-quiz-app-js/
+
 Features
 Multiple difficulty levels to choose from
 Dynamic quiz rendering with 10 random questions per session
